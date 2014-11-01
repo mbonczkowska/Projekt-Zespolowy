@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MAGDA</Machine>
+    <WindowsUser>Magdalena</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>92a89660-4a98-45ef-b2b1-43b38eb430d3</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\magdalena\documents\visual studio 2013\Projects\Photo\Photo\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\magdalena\documents\visual studio 2013\Projects\Photo\Photo\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\magdalena\documents\visual studio 2013\Projects\Photo\Photo\bin\Debug\Photo.exe">
+      <PackagePath>Photo.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\magdalena\documents\visual studio 2013\Projects\Photo\Photo\Assets\kolko.png">
+      <PackagePath>Assets\kolko.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\magdalena\documents\visual studio 2013\Projects\Photo\Photo\Assets\krzyzyk.png">
+      <PackagePath>Assets\krzyzyk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\magdalena\documents\visual studio 2013\Projects\Photo\Photo\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\magdalena\documents\visual studio 2013\Projects\Photo\Photo\Assets\pusto.png">
+      <PackagePath>Assets\pusto.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\magdalena\documents\visual studio 2013\Projects\Photo\Photo\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\magdalena\documents\visual studio 2013\Projects\Photo\Photo\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\magdalena\documents\visual studio 2013\Projects\Photo\Photo\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\magdalena\documents\visual studio 2013\Projects\Photo\Photo\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\magdalena\documents\visual studio 2013\Projects\Photo\Photo\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\magdalena\documents\visual studio 2013\Projects\Photo\Photo\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\magdalena\documents\visual studio 2013\Projects\Photo\Photo\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\magdalena\documents\visual studio 2013\Projects\Photo\Photo\bin\Debug\Photo.xr.xml">
+      <PackagePath>Photo.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\magdalena\documents\visual studio 2013\Projects\Photo\Photo\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
