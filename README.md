@@ -4,4 +4,4 @@ Repozytorium projektu zespo³owego realizowanego w ramach zajêæ "Projekt Zespo³ow
 
 # Cel pracy
 
-Stworzenie gry wzorowanej na "Tamagochi".
+Stworzenie gry wzorowanej na "Tamagotchi".
