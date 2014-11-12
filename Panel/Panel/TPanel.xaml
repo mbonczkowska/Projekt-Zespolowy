@@ -11,32 +11,32 @@
     <Grid>
     	
    
-            <Button  HorizontalAlignment="Left" VerticalAlignment="Top" Height="155" Width="133" Margin="0,-10,0,0" RenderTransformOrigin="0.5,0.5">
+            <Button x:Name="food1"  HorizontalAlignment="Left" VerticalAlignment="Top" Height="155" Width="133" Margin="0,0,0,0" RenderTransformOrigin="0.5,0.5">
                 <Button.Background>
                     <ImageBrush ImageSource= "Buttons/Snack-Burger2.png"  Stretch="Uniform"/>
                 </Button.Background>
             </Button>
-            <Button x:Name="button1" HorizontalAlignment="Left" VerticalAlignment="Top" Height="155" Margin="266,-10,0,0" Width="134">
+            <Button x:Name="stats3" HorizontalAlignment="Left" VerticalAlignment="Top" Height="155" Margin="266,0,0,0" Width="134">
                 <Button.Background>
                     <ImageBrush ImageSource= "Buttons/Show-Progress.png"  Stretch="Uniform"/>
                 </Button.Background>
             </Button>
-            <Button x:Name="button" HorizontalAlignment="Left" VerticalAlignment="Top" Height="155" Margin="133,-10,0,0" Width="133">
+            <Button x:Name="play2" HorizontalAlignment="Left" VerticalAlignment="Top" Height="155" Margin="133,0,0,0" Width="133">
                 <Button.Background>
                     <ImageBrush ImageSource= "Buttons/Soccer.png"  Stretch="Uniform"/>
                 </Button.Background>
             </Button>
-        <Button x:Name="button4" HorizontalAlignment="Left" VerticalAlignment="Top" Height="155" Margin="-1,495,0,-10" Width="134">
+        <Button x:Name="micr4" HorizontalAlignment="Left" VerticalAlignment="Top" Height="155" Margin="0,495,0,0" Width="134">
             <Button.Background>
                 <ImageBrush ImageSource= "Buttons/Microphone-03.png"  Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button x:Name="button2" HorizontalAlignment="Left" VerticalAlignment="Top" Height="155" Margin="133,495,0,-10" Width="134">
+        <Button x:Name="med5" HorizontalAlignment="Left" VerticalAlignment="Top" Height="155" Margin="133,495,0,0" Width="134">
                 <Button.Background>
                     <ImageBrush ImageSource= "Buttons/Medicine.png"  Stretch="Uniform"/>
                 </Button.Background>
             </Button>
-            <Button x:Name="button3" HorizontalAlignment="Left" VerticalAlignment="Top" Height="155" Margin="266,495,0,-10" Width="133">
+            <Button x:Name="sleep6" HorizontalAlignment="Left" VerticalAlignment="Top" Height="155" Margin="266,495,0,0" Width="133">
                 <Button.Background>
                     <ImageBrush ImageSource= "Buttons/Night-Lamp.png"  Stretch="Uniform"/>
                 </Button.Background>
