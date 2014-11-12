@@ -1,0 +1,46 @@
+﻿<Page
+    x:Class="Panel.TPanel"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Panel"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+    	
+   
+            <Button  HorizontalAlignment="Left" VerticalAlignment="Top" Height="155" Width="133" Margin="0,-10,0,0" RenderTransformOrigin="0.5,0.5">
+                <Button.Background>
+                    <ImageBrush ImageSource= "Buttons/Snack-Burger2.png"  Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name="button1" HorizontalAlignment="Left" VerticalAlignment="Top" Height="155" Margin="266,-10,0,0" Width="134">
+                <Button.Background>
+                    <ImageBrush ImageSource= "Buttons/Show-Progress.png"  Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name="button" HorizontalAlignment="Left" VerticalAlignment="Top" Height="155" Margin="133,-10,0,0" Width="133">
+                <Button.Background>
+                    <ImageBrush ImageSource= "Buttons/Soccer.png"  Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+        <Button x:Name="button4" HorizontalAlignment="Left" VerticalAlignment="Top" Height="155" Margin="-1,495,0,-10" Width="134">
+            <Button.Background>
+                <ImageBrush ImageSource= "Buttons/Microphone-03.png"  Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="button2" HorizontalAlignment="Left" VerticalAlignment="Top" Height="155" Margin="133,495,0,-10" Width="134">
+                <Button.Background>
+                    <ImageBrush ImageSource= "Buttons/Medicine.png"  Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name="button3" HorizontalAlignment="Left" VerticalAlignment="Top" Height="155" Margin="266,495,0,-10" Width="133">
+                <Button.Background>
+                    <ImageBrush ImageSource= "Buttons/Night-Lamp.png"  Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+      
+    </Grid>
+</Page>
